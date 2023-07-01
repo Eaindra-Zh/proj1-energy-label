@@ -1,4 +1,4 @@
-# proj2-energy-label
+# proj2-energy-label_R
 First data analysis project with RStudio. 
 
 Skills displayed in this project: 
